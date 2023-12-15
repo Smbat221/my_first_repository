@@ -8,3 +8,4 @@ inchvor text stexov
 
 add text in new_branch
 
+razreshaem conflict
