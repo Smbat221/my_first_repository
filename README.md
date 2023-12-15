@@ -3,3 +3,5 @@
 add text 
 
 i added text in web browser
+
+inchvor text stexov
